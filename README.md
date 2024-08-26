@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayush-khadka-1
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 App development using react Native / Flutter
 - 📫 How to reach me Email: khadkaaayush27@gmail.com
 - ⚡ Fun fact: I love Cricket.
 
